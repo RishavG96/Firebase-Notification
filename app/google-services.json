@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "229397934738",
+    "firebase_url": "https://myfirstfirebaseproject-57f18.firebaseio.com",
+    "project_id": "myfirstfirebaseproject-57f18",
+    "storage_bucket": "myfirstfirebaseproject-57f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229397934738:android:60db8b13e397e473",
+        "android_client_info": {
+          "package_name": "rishav.com.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229397934738-4v5hl7l3e5cesmn9mcddufn218l9qeqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpaMscmudpS6-DlMEHUYOtF_JzBMPVO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
